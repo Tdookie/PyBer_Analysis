@@ -8,7 +8,12 @@ Fig.1 Total Fare by City Type
 In the graph above shows the distinct separation of Rural, Urban and Suburban city types.  The Urban cities fare is the highest and consistent between the months of January till April.  The Rural cities fare is the lowest of the other two city types and similar to Urban and Suburban city types trend, the fares never intersect.  Although the fares never intersect, the Urban fares start at average of $1,800 and continued to increase as the months went by to ~$2,300.  The Suburban fares on the other hand started ~$1,000, the trend was not consistently profitable as the fare dropped in March and even lower at mid-April.  The Rural fares started at ~$200, consistent increase and drop of fares till the end of April.  One similarity of the three city types, is at the end of February, shows fare spike.
 ## Summary 
 Fig.2 Percent Total Riders by City Type
-![Fig2](https://user-images.githubusercontent.com/77812423/111560163-50fc6980-8768-11eb-8959-91aa3002b602.png)
+<img width="613" alt="Screen Shot 2021-03-17 at 9 35 23 PM" src="https://user-images.githubusercontent.com/77812423/111560347-b18ba680-8768-11eb-8b49-6da906c38491.png">
+
+
 Fig.3 Percent of Total Drivers by City Type
+![Fig7](https://user-images.githubusercontent.com/77812423/111560414-cc5e1b00-8768-11eb-8aac-bea39e8ef6e8.png)
+
+
 
 Both pie bars show Urban city type both contain the most city drivers and riders and consistent in price and trend as shown in the Figure 1 line chart.
