@@ -9,7 +9,8 @@ In the graph above shows the distinct separation of Rural, Urban and Suburban ci
 ## Summary 
 ## Fig.2 Percent Total Riders by City Type
 
-<img width="613" alt="Screen Shot 2021-03-17 at 9 35 23 PM" src="https://user-images.githubusercontent.com/77812423/111560347-b18ba680-8768-11eb-8b49-6da906c38491.png">
+
+<img width="392" alt="Screen Shot 2021-03-20 at 1 45 23 PM" src="https://user-images.githubusercontent.com/77812423/111880545-88466280-8982-11eb-8463-efe4a07f9c66.png">
 
 
 ## Fig.3 Percent of Total Drivers by City Type
